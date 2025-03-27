@@ -8,3 +8,4 @@ chmod +x *
 sudo apt-get installlibcurl4-openssl-dev
 ./bash.sh
 ```
+![img1](/img/img1.png)
