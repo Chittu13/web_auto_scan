@@ -1,7 +1,4 @@
-__Name__ = "Collector"
-__Description__ = "Collect XSS vulnerable parameters from entire domain."
-__Author__ = "Md. Nur Habib"
-__Version__ = "1.0.0"
+
 
 # Import modules
 from multiprocessing import Manager
